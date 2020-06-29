@@ -1,0 +1,18 @@
+package Package;
+
+public class delete {
+	
+	// This is a static method
+    static void myMethod()
+    {
+        System.out.println("myMethod");
+    }
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		myMethod();
+
+	}
+
+}

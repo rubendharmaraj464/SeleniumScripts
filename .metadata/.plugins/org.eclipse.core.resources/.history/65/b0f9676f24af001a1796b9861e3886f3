@@ -1,0 +1,37 @@
+package Package;
+
+public class arrays {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	//datatype variable;
+	int total;
+	
+	int[] imarks = {67,76,87,90,100};
+	
+	String[] Studentnmaes  = {"jhon","david" ,"raj"};
+	
+	/*
+	 * String name1 = Studentnmaes[0]; String name2 = Studentnmaes[1]; String name3
+	 * = Studentnmaes[2];
+	 */
+	
+	System.out.println(Studentnmaes[0]);
+
+	System.out.println(Studentnmaes[1]);
+	System.out.println(Studentnmaes[2]);
+	
+	
+	
+	/*
+	 * int[] iid = new int[5]; iid[0] = 67; iid[1] = 76; iid[2] = 87; iid[3] = 90;
+	 * iid[4] = 100;
+	 */
+    
+    
+    
+
+	}
+
+}

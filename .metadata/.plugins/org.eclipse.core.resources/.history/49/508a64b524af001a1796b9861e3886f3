@@ -1,0 +1,30 @@
+package Package;
+
+public class ChildClass extends ParentClass {
+	
+
+
+	public static void main(String[] args) 
+	{
+	
+		ChildClass.studentData();
+		
+		ChildClass.MarksList();
+		
+		String Name = ChildClass.StudentName;
+		
+		
+		
+		
+         
+	}
+	
+	
+	public static void studentData()
+	{
+		System.out.println("Child  Class");
+	}
+	
+	
+
+}
